@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'MeteorShowSDK'
+  s.name             = 'MSSDK'
   s.version          = '1.0.01'
   s.summary          = 'MeteorShowSDK 1.0.01'
 
