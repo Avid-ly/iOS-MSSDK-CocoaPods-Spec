@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'MSSDK'
+  s.name             = 'AvidlyMSSDK'
   s.version          = '1.0.01'
   s.summary          = 'MSSDK 1.0.01'
 
